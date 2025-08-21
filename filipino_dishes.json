@@ -1,0 +1,6884 @@
+[
+    {
+        "strMeal": "Adobong Kangkong",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong kangkong.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 bunches kangkong",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Pusit",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong-pusit.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg squid, cleaned",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp ground black pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp cooking oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Afritada (Chicken)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken-afritada.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 green bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup green peas",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Arroz Caldo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/arroz_caldo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup jasmine rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups chicken broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "500 g chicken, cut-ups",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings: hard-boiled eggs, scallions, toasted garlic, calamansi",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Arroz Valenciana/Bringhe",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/arroz valenciana & bringhe.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups glutinous rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup jasmine rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups chicken stock",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "150 g chorizo",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp annatto",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup peas",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Bangsilog (Bangus Meal)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bangsilog bangus meal.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 large bangus",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "garlic rice and egg",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Batchoy (La Paz)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/batchoy la paz.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g fresh miki noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 liter pork/chicken broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "100 g liver, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup chicharon, crushed",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 egg (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "spring onions",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Batchoy Tagalog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/batchoy_tagalog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g miki noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 liter pork broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "100 g pork liver",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 egg (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Bulalo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_bulalo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1.5 kg beef shanks with bone marrow",
+                "measure": ""
+            },
+            {
+                "ingredient": "12 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp whole peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cobs corn, cut",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small cabbage, wedges",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch pechay",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Caldereta",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_caldereta.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef chuck, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup green olives",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup liver spread",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup grated cheese",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp tomato paste",
+                "measure": ""
+            },
+            {
+                "ingredient": "chilies to taste",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Bibingka",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bibingka.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups rice flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp baking powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "3/4 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "banana leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings: salted egg, cheese, butter, grated coconut",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Bicol Express",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bicol_express.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp shrimp paste",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "6-10 bird’s eye chilies, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Biko",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/biko.jpg",
+        "ingredients": [
+            {
+                "ingredient": "3 cups glutinous rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "latik topping",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Binagoongan Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/binagoongan_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp shrimp paste",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 eggplant, wedges",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Bulanglang (Batangas)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bulanglang_(batangas).jpg",
+        "ingredients": [
+            {
+                "ingredient": "Assorted vegetables (upo, papaya, okra, sitaw)",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp bagoong isda or salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "ginger (optional)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Callos a la Madrileña (Filipino version)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/callos_a_la_madrileña_(filipino_version).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg ox tripe",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g ox feet",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 chorizo",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup chickpeas",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup beef stock",
+                "measure": ""
+            },
+            {
+                "ingredient": "paprika",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Cassava Cake",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/cassava_cake.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg grated cassava",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can (390 g) condensed milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can (370 ml) evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "topping: 1/2 cup condensed milk + 1/2 cup coconut cream",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Champorado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/champorado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup glutinous rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 tablea (about 120 g)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup evaporated milk (for serving)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Adobo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_adobo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken thighs/drumsticks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup cane vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/3 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cloves garlic, crushed",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp whole peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp brown sugar (optional)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Inasal",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_inasal.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken leg quarters",
+                "measure": ""
+            },
+            {
+                "ingredient": "Marinade: 1/2 cup cane vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup annatto oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cloves garlic, pounded",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger, pounded",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 stalks lemongrass, pounded",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Pastel",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_pastel.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup sliced mushrooms",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup Vienna sausage",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup carrots",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup potatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup all-purpose cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Crispy Pata",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/crispy_pata.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 whole pork leg (1.2–1.5 kg)",
+                "measure": ""
+            },
+            {
+                "ingredient": "10 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for deep-frying",
+                "measure": ""
+            },
+            {
+                "ingredient": "Dipping: soy sauce + vinegar + onions + chilies",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Daing na Bangus",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/daing_na_bangus.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg boneless bangus, butterflied",
+                "measure": ""
+            },
+            {
+                "ingredient": "Marinade: 1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic, crushed",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Dinengdeng",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/dinengdeng.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Assorted vegetables (okra, sitaw, ampalaya, eggplant)",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp bagoong isda",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tomato",
+                "measure": ""
+            },
+            {
+                "ingredient": "grilled fish (optional)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Dinuguan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/dinuguan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "800 g pork shoulder, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g pork offal/ears (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "500 ml pork blood",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cups broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Embutido",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/embutido.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg ground pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sweet pickle relish",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup raisins",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup grated cheese",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup breadcrumbs",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 hotdog strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 hard-boiled eggs, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ensaymada",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ensaymada.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cups bread flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp yeast",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 egg yolks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup warm milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "topping: butter, sugar, grated cheese",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Escabeche (Sweet & Sour Fish)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/escabeche_(sweet_&_sour_fish).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg fish, fried",
+                "measure": ""
+            },
+            {
+                "ingredient": "Sauce: 1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 tbsp banana ketchup",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp cornstarch",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Fresh Lumpia (Lumpiang Sariwa)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/fresh_lumpia_(lumpiang_sariwa).jpg",
+        "ingredients": [
+            {
+                "ingredient": "Wrapping batter: 1 cup flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "Filling: 300 g pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup ubod/heart of palm",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "Sauce: 2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 tbsp sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp cornstarch",
+                "measure": ""
+            },
+            {
+                "ingredient": "garlic",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Kalabasa at Sitaw",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_kalabasa_at_sitaw.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g squash, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g sitaw, 2-inch",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup shrimp (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 chilies",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2-inch ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 green papaya, wedges",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "malunggay leaves",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginisang Ampalaya with Egg",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginisang_ampalaya_with_egg.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 ampalaya, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 eggs, beaten",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Gising-Gising",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/gising_gising.jpg",
+        "ingredients": [
+            {
+                "ingredient": "300 g Baguio beans, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g ground pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp shrimp paste",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 bird’s eye chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Goto (Beef Tripe Congee)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/goto_(beef_tripe_congee).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup glutinous rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups beef broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "500 g beef tripe, cleaned and boiled",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings: chicharon, scallions, toasted garlic",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Goto Batangas",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/goto_batangas.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef tripe",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 kg beef tendons",
+                "measure": ""
+            },
+            {
+                "ingredient": "12 cups broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp annatto",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "chili oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "spring onions",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Halo-Halo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/halo_halo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups shaved ice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sweetened saba",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sweetened beans",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup nata de coco",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup kaong",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup sweetened ube halaya",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 scoop ice cream",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Igado (Ilocano)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/igado_(ilocano).jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g pork shoulder",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork liver",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup green peas",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 bay leaves",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Inihaw na Liempo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inihaw_na_liempo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly slabs",
+                "measure": ""
+            },
+            {
+                "ingredient": "Marinade: 1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "basting: banana ketchup + oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Kare-Kare (Oxtail)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kare_kare_(oxtail).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1.2 kg oxtail, cut",
+                "measure": ""
+            },
+            {
+                "ingredient": "10 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup ground peanuts",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup peanut butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp annatto powder in 1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup toasted ground rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch pechay",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g sitaw",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggplants, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 banana blossom, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "shrimp paste (bagoong) for serving",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Karioka (Carioca)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/karioka_(carioca).jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups glutinous rice flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup grated coconut",
+                "measure": ""
+            },
+            {
+                "ingredient": "3/4 cup coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            },
+            {
+                "ingredient": "sauce: 1/2 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup coconut milk",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Kilawin na Puso ng Saging",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kilawin_na_puso_ng_saging.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 banana blossom, shredded",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup coconut milk (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Kinilaw na Tanigue",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kinilaw_na_tanigue.jpg",
+        "ingredients": [
+            {
+                "ingredient": "700 g tanigue cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cane vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small red onion, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 thumb ginger, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup coconut milk (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Kutsinta",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kutsinta.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup rice flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup all-purpose flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tsp lye water",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp annatto powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "grated coconut for topping",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Laing (Dried Taro Leaves in Coconut Milk)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/laing_(dried_taro_leaves_in_coconut_milk).jpg",
+        "ingredients": [
+            {
+                "ingredient": "100 g dried taro leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork belly, strips (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp shrimp paste",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Leche Flan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/leche_flan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "10 egg yolks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can (390 g) condensed milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can (370 ml) evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp vanilla",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar for caramel",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Lechon Kawali",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lechon_kawali.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for deep-frying",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Lomi (Batangas)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lomi_(batangas).jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g fresh lomi noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 liter chicken stock",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g pork belly, strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cabbage, shredded",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, julienned",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp cornstarch slurry",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 egg, beaten",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Longganisa Hamonado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/longganisa_hamonado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg ground pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp paprika",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cloves garlic, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "hog casings",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Lumpiang Shanghai",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lumpiang_shanghai.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g ground pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 egg",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "25 lumpia wrappers",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Maja Blanca",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/maja_blanca.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cornstarch",
+                "measure": ""
+            },
+            {
+                "ingredient": "3/4 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup sweet corn kernels",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "latik for topping",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Mami (Chicken)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/mami_(chicken).jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g egg noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 liter chicken broth",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g chicken, shredded",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "scallions",
+                "measure": ""
+            },
+            {
+                "ingredient": "fried garlic",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Maruya (Banana Fritters)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/maruya_(banana_fritters).jpg",
+        "ingredients": [
+            {
+                "ingredient": "6 saba bananas, sliced fan-style",
+                "measure": ""
+            },
+            {
+                "ingredient": "Batter: 1 cup flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp baking powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "pinch salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            },
+            {
+                "ingredient": "sugar for dusting",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Mechado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/mechado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef chuck, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "100 g pork fat strips for larding",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red/green bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Monggo Guisado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/monggo_guisado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup mung beans",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork or shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup ampalaya leaves or spinach",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Morcon (Beef Roll)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/morcon_(beef_roll).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef round, butterflied",
+                "measure": ""
+            },
+            {
+                "ingredient": "filling: 2 hotdogs",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 hard-boiled eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "50 g pickles",
+                "measure": ""
+            },
+            {
+                "ingredient": "50 g cheese strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "marinade: 1/2 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Nilagang Baka",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/nilagang_baka.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1.2 kg beef brisket",
+                "measure": ""
+            },
+            {
+                "ingredient": "10 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 saba banana, halved (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch pechay",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Paksiw na Isda",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/paksiw_na_isda.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg fish (bangus/tilapia)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "thumb ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long green chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Paksiw na Lechon",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/paksiw_na_lechon.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg leftover lechon",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup lechon sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp peppercorns",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Palitaw",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/palitaw.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups glutinous rice flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "for coating: grated coconut",
+                "measure": ""
+            },
+            {
+                "ingredient": "sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "toasted sesame seeds",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Bihon Guisado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_bihon_guisado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g bihon (rice vermicelli)",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g chicken, strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "100 g pork, strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, julienned",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp oyster sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups chicken broth",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Canton",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_canton.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g pancit canton noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork, strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "150 g shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, julienned",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oyster sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups chicken broth",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Habhab (Lucban)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_habhab_(lucban).jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g miki lucban noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "150 g shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "sayote and pechay tops",
+                "measure": ""
+            },
+            {
+                "ingredient": "banana leaves for serving",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Luglug",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_luglug.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g luglug noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cups shrimp/pork stock",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup annatto water",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 tbsp flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings similar to palabok",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Malabon",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_malabon.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g thick noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups shrimp stock",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp annatto powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 tbsp flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings: shrimp, smoked fish flakes, eggs, chicharon, cabbage, calamansi",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pancit Palabok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pancit_palabok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g bihon noodles",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 1/2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 tbsp flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup annatto water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 Knorr shrimp cube",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork, small cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup tinapa flakes",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 1/2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "toppings: shrimp, chicharon, tofu, eggs, green onions, garlic",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pandesal",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pandesal.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cups all-purpose flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp instant yeast",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/4 cups warm milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup oil or butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "breadcrumbs for coating",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pangat na Isda (Laing Style/Naga)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pangat_na_isda.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg fish steaks",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut cream",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pangat na Salmon (Sinigang sa Miso)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pangat_na_salmon_(sinigang_sa_miso).jpg",
+        "ingredients": [
+            {
+                "ingredient": "700 g salmon belly/steak",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup mustard leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp miso",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 pack tamarind mix",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pares",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pares.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef brisket",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 star anise",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp cornstarch slurry",
+                "measure": ""
+            },
+            {
+                "ingredient": "scallions",
+                "measure": ""
+            },
+            {
+                "ingredient": "garlic rice",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pata Tim",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pata_tim.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 whole pork hock",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup Shaoxing wine",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 star anise",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "pechay for garnish",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pichi-Pichi",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pichi_pichi.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups grated cassava",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp lye water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp pandan extract",
+                "measure": ""
+            },
+            {
+                "ingredient": "grated coconut for coating",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pinakbet (Ilocano)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pinakbet_(ilocano).jpg",
+        "ingredients": [
+            {
+                "ingredient": "200 g pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small ampalaya, chunks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small squash, chunks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 eggplant, chunks",
+                "measure": ""
+            },
+            {
+                "ingredient": "10 pcs okra",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g sitaw, 2-inch",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp bagoong alamang",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pininyahang Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pininyahang_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can pineapple chunks with juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 carrots",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 red bell pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup evaporated milk or coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pochero (Beef)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pochero_(beef).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef shank",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 saba banana, chunks",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch pechay",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 chorizo de bilbao (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Adobo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_adobo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly, chunks",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup cane vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/3 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cloves garlic, crushed",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp whole peppercorns",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp brown sugar (optional)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Afritada",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_afritada.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork",
+                "measure": ""
+            },
+            {
+                "ingredient": "aromatics same as chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "potatoes, carrots, peas",
+                "measure": ""
+            },
+            {
+                "ingredient": "bell peppers",
+                "measure": ""
+            },
+            {
+                "ingredient": "bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork BBQ (Skewers)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_bbq_(skewers).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1.5 kg pork shoulder, thin slices",
+                "measure": ""
+            },
+            {
+                "ingredient": "3/4 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "3/4 cup banana ketchup",
+                "measure": ""
+            },
+            {
+                "ingredient": "juice of 2 lemons or 1/4 cup calamansi",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp garlic powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "bamboo skewers",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Humba (Visayan)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_humba_(visayan).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup pineapple juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp black beans (tausi)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup banana blossoms",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Menudo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_menudo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork shoulder, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork liver, cubes",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 potatoes, diced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot, diced",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup tomato sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 hotdogs, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 bay leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Puto (Steamed Rice Cakes)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/puto_(steamed_rice_cakes).jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups rice flour or all-purpose flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp baking powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/4 cups water or milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 egg",
+                "measure": ""
+            },
+            {
+                "ingredient": "cheese slices (topping)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Relyenong Bangus",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/relyenong_bangus.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 large milkfish",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup raisins",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup green peas",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup breadcrumbs",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Sapin-Sapin",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sapin_sapin.jpg",
+        "ingredients": [
+            {
+                "ingredient": "3 cups glutinous rice flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/2 cups sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup condensed milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "food color (uube/yellow)",
+                "measure": ""
+            },
+            {
+                "ingredient": "latik topping",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang na Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_na_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly or ribs",
+                "measure": ""
+            },
+            {
+                "ingredient": "8 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 taro (gabi), peeled and halved",
+                "measure": ""
+            },
+            {
+                "ingredient": "10 okra",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup daikon, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g sitaw, 2-inch pieces",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long green chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 pack tamarind mix (40 g) or 1/2 cup fresh tamarind juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang na Hipon",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_na_hipon.jpg",
+        "ingredients": [
+            {
+                "ingredient": "700 g shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 radish, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g kangkong",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g sitaw, 2-inch pieces",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long green chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 pack tamarind mix (40 g)",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Sisig (Pork)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sisig_(pork).jpg",
+        "ingredients": [
+            {
+                "ingredient": "700 g pork face/ear",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g pork belly",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp mayonnaise (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Sotanghon Guisado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sotanghon_guisado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "300 g sotanghon",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "200 g chicken",
+                "measure": ""
+            },
+            {
+                "ingredient": "100 g mushrooms",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 carrot",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup cabbage",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp oyster sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 cups chicken broth",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Spanish Bread",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/spanish_bread.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Dough: 4 cups flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp yeast",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 1/4 cups warm milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup butter. Filling: 1/2 cup butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup breadcrumbs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp vanilla",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Suman sa Lihiya",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/suman_sa_lihiya.jpg",
+        "ingredients": [
+            {
+                "ingredient": "3 cups glutinous rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tsp lye water",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cups coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "banana leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "latik sauce",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tapsilog (Beef Tapa Meal)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tapsilog_(beef_tapa_meal).jpg",
+        "ingredients": [
+            {
+                "ingredient": "Tapa: 1 kg beef sirloin, thin",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/3 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup calamansi",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp pepper. Garlic rice + fried egg to serve",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinapa Fried Rice",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinapa_fried_rice.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cups cooked rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup tinapa flakes",
+                "measure": ""
+            },
+            {
+                "ingredient": "3 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup mixed veggies",
+                "measure": ""
+            },
+            {
+                "ingredient": "spring onions",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinapa Omelette (Tortang Tinapa)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinapa_omelette_(tortang_tinapa).jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 eggs",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup tinapa flakes",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small tomato, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinolang Halaan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinolang_halaan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg clams",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 inches ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long green chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinolang Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinolang_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken cut-ups",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic, minced",
+                "measure": ""
+            },
+            {
+                "ingredient": "2-inch ginger, julienned",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 small green papaya, wedges",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch chili leaves or malunggay",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp fish sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "ground pepper to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinolang Tahong",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinolang_tahong.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg mussels, cleaned",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cups water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 inches ginger",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 long green chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 bunch chili leaves",
+                "measure": ""
+            },
+            {
+                "ingredient": "fish sauce to taste",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tokwa't Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tokwa't_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g pork ears/belly, boiled and sliced",
+                "measure": ""
+            },
+            {
+                "ingredient": "300 g firm tofu, fried",
+                "measure": ""
+            },
+            {
+                "ingredient": "Sauce: 1/2 cup soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup vinegar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 chilies",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp sugar",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tortang Talong",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tortang_talong.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 long eggplants, roasted and peeled",
+                "measure": ""
+            },
+            {
+                "ingredient": "4 eggs, beaten",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 onion, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tomatoes, chopped",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Tosilog (Tocino + Sinangag + Itlog)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tosilog_(tocino_+_sinangag_+_itlog).jpg",
+        "ingredients": [
+            {
+                "ingredient": "Tocino: 1 kg pork kasim",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp salt",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp Prague powder #1 (optional)",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/4 cup pineapple juice",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp soy sauce",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tbsp garlic powder. Garlic rice: 4 cups rice",
+                "measure": ""
+            },
+            {
+                "ingredient": "6 cloves garlic",
+                "measure": ""
+            },
+            {
+                "ingredient": "2 tbsp oil",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Turon",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/turon.jpg",
+        "ingredients": [
+            {
+                "ingredient": "6 saba bananas, quartered",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup jackfruit strips",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup brown sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "12 spring roll wrappers",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup caramel (optional)",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ube Halaya",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ube_halaya.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg grated ube",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can condensed milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 can evaporated milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup coconut milk",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup sugar",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup butter",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp vanilla",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Ukoy (Shrimp Fritters)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ukoy_(shrimp_fritters).jpg",
+        "ingredients": [
+            {
+                "ingredient": "200 g small shrimp",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup bean sprouts",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup julienned carrots",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup julienned squash",
+                "measure": ""
+            },
+            {
+                "ingredient": "Batter: 1 cup flour",
+                "measure": ""
+            },
+            {
+                "ingredient": "1/2 cup cornstarch",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 cup water",
+                "measure": ""
+            },
+            {
+                "ingredient": "1 tsp baking powder",
+                "measure": ""
+            },
+            {
+                "ingredient": "salt & pepper",
+                "measure": ""
+            },
+            {
+                "ingredient": "oil for frying",
+                "measure": ""
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Dilaw",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_dilaw.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 lbs Chicken (cut into serving pieces)"
+            },
+            {
+                "ingredient": "2 tbsp Turmeric powder"
+            },
+            {
+                "ingredient": "1/2 cup Vinegar"
+            },
+            {
+                "ingredient": "1/4 cup Soy sauce"
+            },
+            {
+                "ingredient": "1 Onion (sliced)"
+            },
+            {
+                "ingredient": "3 cloves Garlic"
+            },
+            {
+                "ingredient": "2 cups Water"
+            },
+            {
+                "ingredient": "2 tbsp Cooking oil"
+            },
+            {
+                "ingredient": "Salt and pepper to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobo sa Gata",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobo_sa_gata.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken"
+            },
+            {
+                "ingredient": "1/2 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup vinegar"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "2 bay leaves"
+            },
+            {
+                "ingredient": "1 tsp peppercorns"
+            },
+            {
+                "ingredient": "1 cup coconut milk"
+            },
+            {
+                "ingredient": "1–2 chilies"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Atay at Balunbalunan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_atay_at_balunbalunan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g chicken gizzard"
+            },
+            {
+                "ingredient": "250 g chicken liver"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "3 tbsp vinegar"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "1 bay leaf"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly cubed"
+            },
+            {
+                "ingredient": "1/2 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup cane vinegar"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "6 cloves garlic crushed"
+            },
+            {
+                "ingredient": "2 bay leaves"
+            },
+            {
+                "ingredient": "1 tsp peppercorns"
+            },
+            {
+                "ingredient": "1 tbsp brown sugar"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Baboy sa Puti",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_baboy_sa_puti.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 lbs pork belly (cubed)"
+            },
+            {
+                "ingredient": "1 cup vinegar"
+            },
+            {
+                "ingredient": "1 tbsp garlic (minced)"
+            },
+            {
+                "ingredient": "1 tbsp peppercorns"
+            },
+            {
+                "ingredient": "5 dried bay leaves"
+            },
+            {
+                "ingredient": "2 cups water"
+            },
+            {
+                "ingredient": "salt to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Isda",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_isda.jpg",
+        "ingredients": [
+            {
+                "ingredient": "800 g fish steaks"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup vinegar"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken cut-ups"
+            },
+            {
+                "ingredient": "1/2 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup cane vinegar"
+            },
+            {
+                "ingredient": "6 cloves garlic minced"
+            },
+            {
+                "ingredient": "2 bay leaves"
+            },
+            {
+                "ingredient": "1 tsp whole peppercorns"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "1 tbsp brown sugar"
+            },
+            {
+                "ingredient": "2 tbsp oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Manok at Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_manok_at_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g chicken"
+            },
+            {
+                "ingredient": "500 g pork belly"
+            },
+            {
+                "ingredient": "1/2 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup vinegar"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "6 cloves garlic"
+            },
+            {
+                "ingredient": "2 bay leaves"
+            },
+            {
+                "ingredient": "1 tsp peppercorns"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Sitaw",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_sitaw.jpg",
+        "ingredients": [
+            {
+                "ingredient": "300 g string beans cut"
+            },
+            {
+                "ingredient": "250 g pork belly sliced"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp vinegar"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1 tbsp oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobong Tuyo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobong_tuyo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "10 pcs dried fish (tuyo)"
+            },
+            {
+                "ingredient": "1/2 cup vinegar"
+            },
+            {
+                "ingredient": "3 cloves garlic (smashed)"
+            },
+            {
+                "ingredient": "1 tsp peppercorn"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "2 tbsp cooking oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Arroz a la Cubana",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/arroz_a_la_cubana.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g ground beef"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1/2 cup raisins"
+            },
+            {
+                "ingredient": "1/2 cup green peas"
+            },
+            {
+                "ingredient": "1/2 cup tomato sauce"
+            },
+            {
+                "ingredient": "2 fried saba bananas"
+            },
+            {
+                "ingredient": "2 fried eggs"
+            }
+        ]
+    },
+    {
+        "strMeal": "Bagnet",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bagnet.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork belly slab"
+            },
+            {
+                "ingredient": "8 cups water"
+            },
+            {
+                "ingredient": "1 tbsp salt"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            },
+            {
+                "ingredient": "oil for deep-frying"
+            }
+        ]
+    },
+    {
+        "strMeal": "Balbacua",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/balbacua.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 lbs ox tail"
+            },
+            {
+                "ingredient": "1 lb ox skin"
+            },
+            {
+                "ingredient": "1 onion (chopped)"
+            },
+            {
+                "ingredient": "4 cloves garlic (minced)"
+            },
+            {
+                "ingredient": "1/2 cup peanut butter"
+            },
+            {
+                "ingredient": "1/4 cup annatto seeds"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "2 tbsp cooking oil"
+            },
+            {
+                "ingredient": "salt and pepper to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Banana Cue",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/banana_cue.jpg",
+        "ingredients": [
+            {
+                "ingredient": "6 saba bananas"
+            },
+            {
+                "ingredient": "1 cup brown sugar"
+            },
+            {
+                "ingredient": "2 cups cooking oil"
+            },
+            {
+                "ingredient": "bamboo skewers"
+            }
+        ]
+    },
+    {
+        "strMeal": "Batangas Lomi",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/batangas_lomi.jpg",
+        "ingredients": [
+            {
+                "ingredient": "400 g fresh lomi noodles"
+            },
+            {
+                "ingredient": "200 g pork"
+            },
+            {
+                "ingredient": "100 g liver"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "6 cups broth"
+            },
+            {
+                "ingredient": "2 tbsp soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp cornstarch slurry"
+            },
+            {
+                "ingredient": "1 egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Kare-Kare",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_kare-kare.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef shank"
+            },
+            {
+                "ingredient": "1/2 cup peanut butter"
+            },
+            {
+                "ingredient": "1/4 cup ground rice"
+            },
+            {
+                "ingredient": "1 tbsp annatto powder"
+            },
+            {
+                "ingredient": "1 eggplant"
+            },
+            {
+                "ingredient": "1 bundle sitaw"
+            },
+            {
+                "ingredient": "1 banana blossom"
+            },
+            {
+                "ingredient": "8 cups water"
+            },
+            {
+                "ingredient": "bagoong to serve"
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Mechado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_mechado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef chuck"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 cup tomato sauce"
+            },
+            {
+                "ingredient": "2 tbsp soy sauce"
+            },
+            {
+                "ingredient": "1/4 cup calamansi juice"
+            },
+            {
+                "ingredient": "2 potatoes"
+            },
+            {
+                "ingredient": "1 carrot"
+            },
+            {
+                "ingredient": "1 cup beef broth"
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Pares",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_pares.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef brisket"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "1/4 cup brown sugar"
+            },
+            {
+                "ingredient": "1 star anise"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "green onions for garnish"
+            }
+        ]
+    },
+    {
+        "strMeal": "Beef Tapa",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/beef_tapa.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef sirloin thinly sliced"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp vinegar"
+            },
+            {
+                "ingredient": "2 tbsp sugar"
+            },
+            {
+                "ingredient": "6 cloves garlic"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            }
+        ]
+    },
+    {
+        "strMeal": "Binignit",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/binignit.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "1 cup sweet potatoes"
+            },
+            {
+                "ingredient": "1 cup taro"
+            },
+            {
+                "ingredient": "1 cup saba bananas"
+            },
+            {
+                "ingredient": "1/2 cup sago pearls"
+            },
+            {
+                "ingredient": "1/2 cup jackfruit strips"
+            },
+            {
+                "ingredient": "1/2 cup brown sugar"
+            }
+        ]
+    },
+    {
+        "strMeal": "Broas (Lady Fingers)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/broas.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup flour"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "3 eggs"
+            },
+            {
+                "ingredient": "1/2 tsp baking powder"
+            }
+        ]
+    },
+    {
+        "strMeal": "Bukayo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bukayo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups grated young coconut"
+            },
+            {
+                "ingredient": "1 cup brown sugar"
+            },
+            {
+                "ingredient": "1/2 cup coconut water"
+            }
+        ]
+    },
+    {
+        "strMeal": "Buko Pandan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/buko_pandan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups young coconut strips"
+            },
+            {
+                "ingredient": "2 cups pandan-flavored gelatin cubes"
+            },
+            {
+                "ingredient": "1 can (14 oz) condensed milk"
+            },
+            {
+                "ingredient": "1 pack (250ml) all-purpose cream"
+            },
+            {
+                "ingredient": "1/2 cup nata de coco"
+            },
+            {
+                "ingredient": "1/2 cup sago pearls"
+            }
+        ]
+    },
+    {
+        "strMeal": "Buko Pie",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/buko_pie.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 9-inch pie crust"
+            },
+            {
+                "ingredient": "2 cups young coconut meat"
+            },
+            {
+                "ingredient": "1 cup evaporated milk"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1/4 cup cornstarch"
+            }
+        ]
+    },
+    {
+        "strMeal": "Camaron Rebosado",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/camaron_rebosado.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g shrimp peeled"
+            },
+            {
+                "ingredient": "1 cup flour"
+            },
+            {
+                "ingredient": "1/2 cup cornstarch"
+            },
+            {
+                "ingredient": "1 tsp baking powder"
+            },
+            {
+                "ingredient": "1 cup cold water"
+            },
+            {
+                "ingredient": "1 egg"
+            },
+            {
+                "ingredient": "salt and pepper"
+            },
+            {
+                "ingredient": "oil for frying"
+            }
+        ]
+    },
+    {
+        "strMeal": "kamote Cue",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/camote_cue.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups sweet potatoes (sliced)"
+            },
+            {
+                "ingredient": "1 cup brown sugar"
+            },
+            {
+                "ingredient": "2 cups cooking oil"
+            },
+            {
+                "ingredient": "bamboo skewers"
+            }
+        ]
+    },
+    {
+        "strMeal": "Cathedral Window",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/cathedral_window.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups colored gelatin cubes"
+            },
+            {
+                "ingredient": "1 can (14 oz) condensed milk"
+            },
+            {
+                "ingredient": "1 pack (250 ml) all-purpose cream"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Afritada",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_afritada.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken"
+            },
+            {
+                "ingredient": "2 potatoes cubed"
+            },
+            {
+                "ingredient": "1 carrot"
+            },
+            {
+                "ingredient": "1 bell pepper"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 cup tomato sauce"
+            },
+            {
+                "ingredient": "1 cup chicken broth"
+            },
+            {
+                "ingredient": "2 tbsp fish sauce"
+            },
+            {
+                "ingredient": "2 tbsp oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Curry (Pinoy)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_curry_(pinoy).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 thumb ginger"
+            },
+            {
+                "ingredient": "2 potatoes"
+            },
+            {
+                "ingredient": "1 carrot"
+            },
+            {
+                "ingredient": "1 bell pepper"
+            },
+            {
+                "ingredient": "2 tbsp curry powder"
+            },
+            {
+                "ingredient": "1 1/2 cups coconut milk"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Tocino",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_tocino.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup pineapple juice"
+            },
+            {
+                "ingredient": "1/4 cup banana ketchup"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1 tbsp garlic powder"
+            },
+            {
+                "ingredient": "1 tbsp salt"
+            },
+            {
+                "ingredient": "2 lbs chicken thigh or leg meat (boneless"
+            },
+            {
+                "ingredient": "skinless)"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "2 tbsp canola oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chopsuey",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chopsuey.jpg",
+        "ingredients": [
+            {
+                "ingredient": "300 g chicken/pork"
+            },
+            {
+                "ingredient": "2 cups mixed vegetables"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 cup chicken stock"
+            },
+            {
+                "ingredient": "1 tbsp oyster sauce"
+            },
+            {
+                "ingredient": "1 tsp cornstarch slurry"
+            }
+        ]
+    },
+    {
+        "strMeal": "Egg Pie",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/egg_pie.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 9-inch pie crust"
+            },
+            {
+                "ingredient": "1 can (12 oz) evaporated milk"
+            },
+            {
+                "ingredient": "1 can (14 oz) condensed milk"
+            },
+            {
+                "ingredient": "3 eggs"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1 tsp vanilla extract"
+            }
+        ]
+    },
+    {
+        "strMeal": "Empanada (Ilocos)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/empanada_(ilocos).jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups flour"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "2 tbsp oil"
+            },
+            {
+                "ingredient": "1/2 cup longganisa"
+            },
+            {
+                "ingredient": "1/2 cup green papaya"
+            },
+            {
+                "ingredient": "1 egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Alimasag",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_alimasag.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg blue crabs"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 thumb ginger"
+            },
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "2 chilies"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Bilo-Bilo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_bilo-bilo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 1/2 cups glutinous rice flour"
+            },
+            {
+                "ingredient": "1/2 cup water (for dough)"
+            },
+            {
+                "ingredient": "4 cups coconut milk"
+            },
+            {
+                "ingredient": "1 cup jackfruit strips"
+            },
+            {
+                "ingredient": "2 saba bananas"
+            },
+            {
+                "ingredient": "1 cup sweet potatoes (cubed)"
+            },
+            {
+                "ingredient": "1/2 cup sago pearls"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Hipon",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_hipon.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g shrimp"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1–2 chilies"
+            },
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Mais",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_mais.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup sweet corn kernels"
+            },
+            {
+                "ingredient": "1/2 cup glutinous rice"
+            },
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginataang Tilapia",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginataang_tilapia.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 tilapia cut"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 thumb ginger"
+            },
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "2 chilies"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginisang Munggo",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginisang_munggo.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup mung beans"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "200 g pork (or shrimp)"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 tomato"
+            },
+            {
+                "ingredient": "1 bunch ampalaya leaves"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Ginisang Sitaw at Kalabasa",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/ginisang_sitaw_at_kalabasa.jpg",
+        "ingredients": [
+            {
+                "ingredient": "300 g sitaw"
+            },
+            {
+                "ingredient": "2 cups kalabasa cubes"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 tomato"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "1 tbsp fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Inihaw na Bangus",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inihaw_na_bangus.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 whole milkfish butterflied"
+            },
+            {
+                "ingredient": "2 tomatoes chopped"
+            },
+            {
+                "ingredient": "1 onion chopped"
+            },
+            {
+                "ingredient": "1 thumb ginger chopped"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp calamansi"
+            }
+        ]
+    },
+    {
+        "strMeal": "Inihaw na Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inihaw_na_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg chicken pieces"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "1/4 cup calamansi"
+            },
+            {
+                "ingredient": "2 tbsp sugar"
+            },
+            {
+                "ingredient": "6 cloves garlic"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            },
+            {
+                "ingredient": "2 tbsp oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Inihaw na Pusit",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inihaw_na_pusit.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 lb squid (cleaned)"
+            },
+            {
+                "ingredient": "2 tomatoes (chopped)"
+            },
+            {
+                "ingredient": "1 onion (chopped)"
+            },
+            {
+                "ingredient": "2 tbsp soy sauce"
+            },
+            {
+                "ingredient": "1 tbsp calamansi juice"
+            },
+            {
+                "ingredient": "2 tbsp cooking oil"
+            },
+            {
+                "ingredient": "salt and pepper to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Kalamay",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kalamay.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups glutinous rice flour"
+            },
+            {
+                "ingredient": "2 cups coconut milk"
+            },
+            {
+                "ingredient": "1 cup brown sugar"
+            },
+            {
+                "ingredient": "banana leaves"
+            }
+        ]
+    },
+    {
+        "strMeal": "Kansi",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kansi.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 lbs beef shank"
+            },
+            {
+                "ingredient": "1/2 lb beef bone marrow"
+            },
+            {
+                "ingredient": "1 pack sinigang mix"
+            },
+            {
+                "ingredient": "1 tbsp annatto powder"
+            },
+            {
+                "ingredient": "1 stalk lemongrass"
+            },
+            {
+                "ingredient": "1 onion (quartered)"
+            },
+            {
+                "ingredient": "1 tbsp fish sauce"
+            },
+            {
+                "ingredient": "6 cups water"
+            }
+        ]
+    },
+    {
+        "strMeal": "Kinamatisang Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kinamatisang_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 lb chicken (cut into serving pieces)"
+            },
+            {
+                "ingredient": "4 tomatoes (sliced into wedges)"
+            },
+            {
+                "ingredient": "1 Knorr Chicken Cube"
+            },
+            {
+                "ingredient": "2 bunches bok choy"
+            },
+            {
+                "ingredient": "3 long green chili peppers"
+            },
+            {
+                "ingredient": "1 onion (sliced)"
+            },
+            {
+                "ingredient": "3 thumbs ginger (crushed)"
+            },
+            {
+                "ingredient": "3 cloves garlic (chopped)"
+            },
+            {
+                "ingredient": "2 cups water"
+            },
+            {
+                "ingredient": "3 tbsp cooking oil"
+            },
+            {
+                "ingredient": "Fish sauce (to taste)"
+            },
+            {
+                "ingredient": "Ground black pepper (to taste)"
+            }
+        ]
+    },
+    {
+        "strMeal": "Kinilaw na Isda",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/kinilaw_na_isda.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 lb fresh tuna (cubed)"
+            },
+            {
+                "ingredient": "1 cup vinegar"
+            },
+            {
+                "ingredient": "1 onion (chopped)"
+            },
+            {
+                "ingredient": "2 thumbs ginger (sliced)"
+            },
+            {
+                "ingredient": "3 pcs chili pepper"
+            },
+            {
+                "ingredient": "1 cucumber (sliced)"
+            },
+            {
+                "ingredient": "1/2 cup coconut milk"
+            },
+            {
+                "ingredient": "salt and pepper to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Lengua de Gato",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lengua_de_gato.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup flour"
+            },
+            {
+                "ingredient": "1/2 cup butter"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "3 egg whites"
+            }
+        ]
+    },
+    {
+        "strMeal": "Longganisa (Homemade)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/longganisa_(homemade).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg ground pork"
+            },
+            {
+                "ingredient": "1/4 cup vinegar"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "1/4 cup sugar"
+            },
+            {
+                "ingredient": "8 cloves garlic minced"
+            },
+            {
+                "ingredient": "1 tsp paprika"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            },
+            {
+                "ingredient": "1 tsp salt"
+            }
+        ]
+    },
+    {
+        "strMeal": "Lumpiang Sariwa",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lumpiang_sariwa.jpg",
+        "ingredients": [
+            {
+                "ingredient": "12 fresh lumpia wrappers"
+            },
+            {
+                "ingredient": "2 cups mixed vegetables"
+            },
+            {
+                "ingredient": "200 g pork/shrimp"
+            },
+            {
+                "ingredient": "2 cloves garlic"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "lettuce"
+            },
+            {
+                "ingredient": "sauce (garlic-peanut)"
+            }
+        ]
+    },
+    {
+        "strMeal": "Minatamis na Saging",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/minatamis_na_saging.jpg",
+        "ingredients": [
+            {
+                "ingredient": "6 saba bananas"
+            },
+            {
+                "ingredient": "1 cup brown sugar"
+            },
+            {
+                "ingredient": "2 cups water"
+            },
+            {
+                "ingredient": "1 tsp vanilla extract"
+            }
+        ]
+    },
+    {
+        "strMeal": "Nilagang Baboy",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/nilagang_baboy.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork ribs"
+            },
+            {
+                "ingredient": "2 potatoes"
+            },
+            {
+                "ingredient": "1 pechay"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "8 cups water"
+            },
+            {
+                "ingredient": "peppercorns"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Paksiw na Bangus",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/paksiw_na_bangus.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg bangus slices"
+            },
+            {
+                "ingredient": "1/2 cup vinegar"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1 thumb ginger"
+            },
+            {
+                "ingredient": "2 finger chilies"
+            },
+            {
+                "ingredient": "salt"
+            }
+        ]
+    },
+    {
+        "strMeal": "Paksiw na Pata",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/paksiw_na_pata.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork hock"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "1/3 cup vinegar"
+            },
+            {
+                "ingredient": "1/4 cup brown sugar"
+            },
+            {
+                "ingredient": "1 cup water"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "2 bay leaves"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pan de Coco",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pan_de_coco.jpg",
+        "ingredients": [
+            {
+                "ingredient": "3 cups all-purpose flour"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "2 1/4 tsp yeast"
+            },
+            {
+                "ingredient": "1 cup warm milk"
+            },
+            {
+                "ingredient": "1/4 cup butter"
+            },
+            {
+                "ingredient": "2 eggs"
+            },
+            {
+                "ingredient": "1 cup sweetened grated coconut filling"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pangat na Salmon Belly",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pangat_na_salmon_belly.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g salmon belly"
+            },
+            {
+                "ingredient": "2 tomatoes"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1 thumb ginger"
+            },
+            {
+                "ingredient": "1/4 cup vinegar"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            },
+            {
+                "ingredient": "salt and pepper"
+            }
+        ]
+    },
+    {
+        "strMeal": "Panutsa",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/panutsa.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups peanuts"
+            },
+            {
+                "ingredient": "1 1/2 cups brown sugar"
+            },
+            {
+                "ingredient": "1/2 cup water"
+            }
+        ]
+    },
+    {
+        "strMeal": "Papaitan",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/papaitan.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 lb goat innards"
+            },
+            {
+                "ingredient": "1 lb goat meat"
+            },
+            {
+                "ingredient": "1 onion (chopped)"
+            },
+            {
+                "ingredient": "3 cloves garlic (minced)"
+            },
+            {
+                "ingredient": "1 knob ginger (sliced)"
+            },
+            {
+                "ingredient": "2 tbsp bile"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "3 tbsp cooking oil"
+            },
+            {
+                "ingredient": "salt and pepper to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pares Mami",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pares_mami.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 recipe beef pares meat"
+            },
+            {
+                "ingredient": "400 g egg noodles"
+            },
+            {
+                "ingredient": "6 cups broth"
+            },
+            {
+                "ingredient": "fried garlic"
+            },
+            {
+                "ingredient": "green onions"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pastillas",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pastillas.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups powdered milk"
+            },
+            {
+                "ingredient": "1 can (14 oz) condensed milk"
+            },
+            {
+                "ingredient": "1/2 cup sugar for rolling"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pianono",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pianono.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup flour"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1/2 tsp baking powder"
+            },
+            {
+                "ingredient": "4 eggs"
+            },
+            {
+                "ingredient": "1/2 cup margarine"
+            },
+            {
+                "ingredient": "1/4 cup condensed milk"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pinakuluang Gulay",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pinakuluang_gulay.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups squash"
+            },
+            {
+                "ingredient": "2 cups string beans"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "2 tomatoes"
+            },
+            {
+                "ingredient": "1 tbsp fish sauce"
+            },
+            {
+                "ingredient": "3 cups water"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pochero",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pochero.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork"
+            },
+            {
+                "ingredient": "1 saba banana"
+            },
+            {
+                "ingredient": "1 chorizo"
+            },
+            {
+                "ingredient": "1 cabbage"
+            },
+            {
+                "ingredient": "1 pechay"
+            },
+            {
+                "ingredient": "2 potatoes"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1 cup tomato sauce"
+            },
+            {
+                "ingredient": "6 cups water"
+            }
+        ]
+    },
+    {
+        "strMeal": "Polvoron",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/polvoron.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups all-purpose flour"
+            },
+            {
+                "ingredient": "1 cup powdered milk"
+            },
+            {
+                "ingredient": "1 cup sugar"
+            },
+            {
+                "ingredient": "1 cup butter (melted)"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Giniling",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_giniling.jpg",
+        "ingredients": [
+            {
+                "ingredient": "800 g ground pork"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 cup tomato sauce"
+            },
+            {
+                "ingredient": "2 potatoes diced"
+            },
+            {
+                "ingredient": "1 carrot diced"
+            },
+            {
+                "ingredient": "1/2 cup green peas"
+            },
+            {
+                "ingredient": "1 bell pepper"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Tocino (Homemade)",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_tocino_(homemade).jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg pork shoulder sliced"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1/4 cup pineapple juice"
+            },
+            {
+                "ingredient": "2 tbsp salt"
+            },
+            {
+                "ingredient": "1 tsp curing salt (optional)"
+            },
+            {
+                "ingredient": "1 tsp paprika"
+            }
+        ]
+    },
+    {
+        "strMeal": "Rellenong Bangus",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/rellenong_bangus.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 large milkfish"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 carrot"
+            },
+            {
+                "ingredient": "1 potato"
+            },
+            {
+                "ingredient": "1/2 cup raisins"
+            },
+            {
+                "ingredient": "1 egg"
+            },
+            {
+                "ingredient": "1 tbsp soy sauce"
+            },
+            {
+                "ingredient": "oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sans Rival",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sans_rival.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cashew meringue layers"
+            },
+            {
+                "ingredient": "2 cups buttercream"
+            },
+            {
+                "ingredient": "1 cup chopped cashews"
+            }
+        ]
+    },
+    {
+        "strMeal": "Silvanas",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/silvanas.jpg",
+        "ingredients": [
+            {
+                "ingredient": "12 cashew meringue wafers"
+            },
+            {
+                "ingredient": "1 cup buttercream"
+            },
+            {
+                "ingredient": "1 cup crushed cookie crumbs"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinampalukang Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinampalukang_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 lbs chicken (cut into serving pieces)"
+            },
+            {
+                "ingredient": "1 cup young tamarind leaves"
+            },
+            {
+                "ingredient": "1 onion (sliced)"
+            },
+            {
+                "ingredient": "2 tomatoes (sliced)"
+            },
+            {
+                "ingredient": "3 cloves garlic (minced)"
+            },
+            {
+                "ingredient": "2 tbsp fish sauce"
+            },
+            {
+                "ingredient": "5 cups water"
+            },
+            {
+                "ingredient": "2 tbsp cooking oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang na Baka",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_na_baka.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 kg beef short ribs"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "2 tomatoes"
+            },
+            {
+                "ingredient": "1 radish"
+            },
+            {
+                "ingredient": "1 gabi"
+            },
+            {
+                "ingredient": "1 bunch kangkong"
+            },
+            {
+                "ingredient": "1 pack tamarind mix"
+            },
+            {
+                "ingredient": "10 cups water"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang na Bangus sa Bayabas",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_na_bangus_sa_bayabas.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 large milkfish (cleaned and sliced)"
+            },
+            {
+                "ingredient": "6 pcs ripe guava (quartered)"
+            },
+            {
+                "ingredient": "1 onion (sliced)"
+            },
+            {
+                "ingredient": "2 tomatoes (sliced)"
+            },
+            {
+                "ingredient": "3 pcs long green chili"
+            },
+            {
+                "ingredient": "1 bundle kangkong"
+            },
+            {
+                "ingredient": "5 cups water"
+            },
+            {
+                "ingredient": "fish sauce to taste"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang na Isda",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_na_isda.jpg",
+        "ingredients": [
+            {
+                "ingredient": "800 g milkfish steaks"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "2 tomatoes"
+            },
+            {
+                "ingredient": "1 radish"
+            },
+            {
+                "ingredient": "6 okra"
+            },
+            {
+                "ingredient": "1 eggplant"
+            },
+            {
+                "ingredient": "1 pack tamarind mix"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sinigang sa Miso",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sinigang_sa_miso.jpg",
+        "ingredients": [
+            {
+                "ingredient": "800 g fish"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "2 tomatoes"
+            },
+            {
+                "ingredient": "1/4 cup miso"
+            },
+            {
+                "ingredient": "1 radish"
+            },
+            {
+                "ingredient": "6 cups water"
+            },
+            {
+                "ingredient": "1 pack tamarind mix"
+            },
+            {
+                "ingredient": "mustard leaves"
+            },
+            {
+                "ingredient": "fish sauce"
+            }
+        ]
+    },
+    {
+        "strMeal": "Spamsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/spamsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 slices Spam (fried)"
+            },
+            {
+                "ingredient": "1 cup garlic fried rice"
+            },
+            {
+                "ingredient": "1 fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sweet and Sour Tilapia",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sweet_and_sour_tilapia.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 whole tilapia"
+            },
+            {
+                "ingredient": "1/4 cup vinegar"
+            },
+            {
+                "ingredient": "1/4 cup sugar"
+            },
+            {
+                "ingredient": "1/4 cup ketchup"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "1 bell pepper"
+            },
+            {
+                "ingredient": "1 carrot"
+            },
+            {
+                "ingredient": "1 tbsp cornstarch slurry"
+            }
+        ]
+    },
+    {
+        "strMeal": "Taho",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/taho.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups soft silken tofu"
+            },
+            {
+                "ingredient": "1 cup arnibal (brown sugar syrup)"
+            },
+            {
+                "ingredient": "1/2 cup sago pearls"
+            }
+        ]
+    },
+    {
+        "strMeal": "Tibok-Tibok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tibok-tibok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 cups carabao’s milk (or coconut milk)"
+            },
+            {
+                "ingredient": "1/2 cup cornstarch"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1/2 tsp salt"
+            },
+            {
+                "ingredient": "1/2 cup latik topping"
+            }
+        ]
+    },
+    {
+        "strMeal": "Torones",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/torones.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups glutinous rice flour"
+            },
+            {
+                "ingredient": "1 cup coconut milk"
+            },
+            {
+                "ingredient": "1 cup sugar"
+            },
+            {
+                "ingredient": "banana leaves"
+            }
+        ]
+    },
+    {
+        "strMeal": "Tortang Giniling",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tortang_giniling.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g ground pork"
+            },
+            {
+                "ingredient": "4 eggs"
+            },
+            {
+                "ingredient": "1 onion"
+            },
+            {
+                "ingredient": "3 cloves garlic"
+            },
+            {
+                "ingredient": "1 carrot minced"
+            },
+            {
+                "ingredient": "1 potato minced"
+            },
+            {
+                "ingredient": "salt and pepper"
+            },
+            {
+                "ingredient": "3 tbsp oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Uraro Cookies",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/uraro_cookies.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 cups arrowroot flour"
+            },
+            {
+                "ingredient": "1/2 cup sugar"
+            },
+            {
+                "ingredient": "1/2 cup butter"
+            },
+            {
+                "ingredient": "2 eggs"
+            }
+        ]
+    },
+    {
+        "strMeal": "Yema",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/yema.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 can (14 oz) condensed milk"
+            },
+            {
+                "ingredient": "3 egg yolks"
+            },
+            {
+                "ingredient": "1/4 cup sugar"
+            },
+            {
+                "ingredient": "2 tbsp butter"
+            }
+        ]
+    },
+    {
+        "strMeal": "Longsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/longsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 pcs longganisa"
+            },
+            {
+                "ingredient": "1 cup garlic fried rice"
+            },
+            {
+                "ingredient": "1 fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Hotsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/hotsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "2 pcs Filipino red hotdog"
+            },
+            {
+                "ingredient": "1 cup garlic fried rice"
+            },
+            {
+                "ingredient": "1 fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Cornsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/cornsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 cup corned beef"
+            },
+            {
+                "ingredient": "1 cup garlic fried rice"
+            },
+            {
+                "ingredient": "1 fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Adobosilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/adobosilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Adobo (pork or chicken)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Bacsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bacsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Bacon"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Bisteksilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/bisteksilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Bistek Tagalog (beef steak)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicksilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicksilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Fried chicken"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chopsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chopsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Pork chop"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Dangsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/dangsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Danggit (dried fish)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Embosilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/embosilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Embutido (Filipino meatloaf)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Hamsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/hamsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Ham"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Inasalsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inasalsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Chicken Inasal"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Lechonsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lechonsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Lechon kawali (crispy pork belly)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Liemposilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/liemposilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Liempo (grilled pork belly)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Lunsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/lunsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Luncheon meat"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Nugsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/nugsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Chicken nuggets"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Paresilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/paresilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Beef pares"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pusitsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pusitsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Fried squid/calamares"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Salmonsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/salmonsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Grilled salmon"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Sisigsilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/sisigsilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Pork sisig"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Tinapasilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tinapasilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Tinapa (smoked fish)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Tunasilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tunasilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Tuna (steak or canned)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Tuyosilog",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/tuyosilog.jpg",
+        "ingredients": [
+            {
+                "ingredient": "Tuyo (dried fish)"
+            },
+            {
+                "ingredient": "Garlic fried rice"
+            },
+            {
+                "ingredient": "Fried egg"
+            }
+        ]
+    },
+    {
+        "strMeal": "Pork Chop",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/pork_chop.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 pcs pork chops"
+            },
+            {
+                "ingredient": "3 tbsp soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp calamansi juice"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            },
+            {
+                "ingredient": "1 tsp salt"
+            },
+            {
+                "ingredient": "1/2 cup cooking oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Prinitong Manok",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/prinitong_manok.jpg",
+        "ingredients": [
+            {
+                "ingredient": "1 whole chicken (cut)"
+            },
+            {
+                "ingredient": "3 tbsp calamansi juice"
+            },
+            {
+                "ingredient": "3 tbsp soy sauce"
+            },
+            {
+                "ingredient": "1 head garlic"
+            },
+            {
+                "ingredient": "1 tsp pepper"
+            },
+            {
+                "ingredient": "1 tsp salt"
+            },
+            {
+                "ingredient": "1 egg (optional)"
+            },
+            {
+                "ingredient": "1 cup flour"
+            },
+            {
+                "ingredient": "cooking oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Prinitong Pork Chop",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/prinitong_pork_chop.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 pcs pork chops"
+            },
+            {
+                "ingredient": "3 tbsp soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp calamansi juice"
+            },
+            {
+                "ingredient": "4 cloves garlic (minced)"
+            },
+            {
+                "ingredient": "1 tsp ground black pepper"
+            },
+            {
+                "ingredient": "1 tsp salt"
+            },
+            {
+                "ingredient": "1/2 cup cooking oil"
+            }
+        ]
+    },
+    {
+        "strMeal": "Inihaw na Pork Chop",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/inihaw_na_pork_chop.jpg",
+        "ingredients": [
+            {
+                "ingredient": "4 pcs pork chops"
+            },
+            {
+                "ingredient": "1/4 cup soy sauce"
+            },
+            {
+                "ingredient": "2 tbsp calamansi juice"
+            },
+            {
+                "ingredient": "4 cloves garlic (minced)"
+            },
+            {
+                "ingredient": "1 tsp ground black pepper"
+            },
+            {
+                "ingredient": "1 tsp salt"
+            },
+            {
+                "ingredient": "2 tbsp cooking oil (for basting)"
+            },
+            {
+                "ingredient": "Charcoal for grilling"
+            }
+        ]
+    },
+    {
+        "strMeal": "Chicken Pastil",
+        "category": "Filipino Dish",
+        "strMealThumb": "images/chicken_pastil.jpg",
+        "ingredients": [
+            {
+                "ingredient": "500 g chicken breast"
+            },
+            {
+                "ingredient": "2 medium onion (chopped)"
+            },
+            {
+                "ingredient": "4 cloves garlic"
+            },
+            {
+                "ingredient": "4 tbsp soy sauce"
+            },
+            {
+                "ingredient": "1/2 tsp turmeric"
+            },
+            {
+                "ingredient": "1/2 cup vegetable oil"
+            },
+            {
+                "ingredient": "Salt and black pepper (to taste)"
+            },
+            {
+                "ingredient": "Cooked white rice"
+            }
+        ]
+    }
+]
